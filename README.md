@@ -17,6 +17,9 @@ Google Apps Script to unshare files and folders with someone.
 4. Hit run! (You will probably also be prompted grant permission to your drive
    so do that)
 
+Inspired by <a href='https://github.com/HR/google-drive-unshare'>https://github.com/HR/google-drive-unshare</a>
+
+
 <p align="center">
   <img src=".github/permissions.png?raw=true" width="40%">
   <img src=".github/permissions_allow.png?raw=true" width="40%">
